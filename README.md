@@ -12,3 +12,9 @@ By this way we can invoke the topics to the point. Making people aware of the si
 3. Users can like the question this way popularity of the question increases and will be displayed on the main home scree.
 4. This way the Hot topic will be get under the eye of every user.
 ```
+
+** Working of the App ** 
+1. The App will rely on the API
+2. For crating the API I will be using flask to generate APIs on the dynamic urls.
+3. And for storing the data same we will use the database.
+4. For storing the user authentication data we will use local storage.
